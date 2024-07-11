@@ -1,1 +1,4 @@
 m2_venv/
+requirements-dev.in
+requirements.in
+. DS_Store
