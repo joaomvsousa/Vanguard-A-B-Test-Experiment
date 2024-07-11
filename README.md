@@ -23,12 +23,6 @@ Error Rates: Instances where users go back to a previous step, indicating confus
 ## Data Source
 The dataset was collected from Vanguard's website interactions during the experiment period, providing comprehensive user interaction data to analyze the impact of the new website layout on user behavior.
 
-## File Structure
-notebooks/vanguard_experiment.ipynb: Jupyter notebook containing the main script for analyzing the A/B test results. \n
-data/: Directory containing the dataset. \n
-images/: Directory containing charts in .png format. \n
-slides/: Directory containing information about the presentation. \n
-README.md: This file providing an overview of the project. \n 
 
 ## Methodology
 The dataset was cleaned to ensure accuracy and completeness, handling missing values and duplicates. Users who spent more than 30 minutes on any step in either group were excluded. The analysis primarily involved calculating averages and percentages for exploratory data analysis (EDA). Python and various libraries were utilized for data manipulation, visualization, and statistical analysis.
