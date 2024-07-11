@@ -49,6 +49,14 @@ The new design does not meet the company's threshold, as they expected a minimum
 Overall, errors decrease throughout the process, but the first step has a higher error rate than the control, potentially causing users to abandon the session early.
 Despite some progress, the outcomes don't meet company standards, and the investment isn't justified.
 
+
+## File Structure
+- notebooks/vanguard_experiment.ipynb: Jupyter notebook containing the main script for analyzing the A/B test results. 
+- data/: Directory containing the dataset. 
+- images/: Directory containing charts in .png format. 
+- slides/: Directory containing information about the presentation. 
+- README.md: This file providing an overview of the project. 
+
 ## Technologies Used
 This project is implemented in Python and utilizes various libraries for data analysis and visualization. Refer to the requirements-dev.txt file for the required libraries.
 
