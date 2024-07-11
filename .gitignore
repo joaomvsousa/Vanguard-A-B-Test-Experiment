@@ -1,0 +1,7 @@
+m2_venv/
+requirements-dev.in
+requirements.in
+. DS_Store
+.Rhistory
+.DS_Store
+.ipynb_checkpoints
